@@ -12,7 +12,7 @@ A Nintendo Character
 
 ### about
 
-infographic
+infographic and data
 
 
 ### Links
